@@ -19,7 +19,9 @@ Add the rewrite rule to .htaccess as stated above.
 
 
 ## Live Examples:
-https://riversideopenstore.glitch.me/
+Riverside Rocks Store - https://shop.riverside.rocks
+
+DEMO - https://riversideopenstore.glitch.me/
 
 (the images in the project are not loading at the moment, please replace them with your own project images)
 
