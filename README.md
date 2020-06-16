@@ -16,3 +16,10 @@ Clone the repo:
 `git clone https://github.com/RiversideRocks/Shop.git`
 
 Add the rewrite rule to .htaccess as stated above.
+
+
+## Live Examples:
+https://riversideopenstore.glitch.me/
+
+## Glitch
+https://glitch.com/edit/#!/riversideopenstore
